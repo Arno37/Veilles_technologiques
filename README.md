@@ -1,6 +1,4 @@
-<p align="center">
-  <strong><span style="font-size: 24px;">Veilles technologiques</span></strong>
-</p>
+#Veilles technologiques
 
 [📄 PLOTLY](https://github.com/Arno37/Veilles/blob/main/Veille_PLOTLY.pdf)
 
